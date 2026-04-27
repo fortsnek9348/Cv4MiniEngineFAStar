@@ -3,7 +3,7 @@
 //import FxsBase;
 //import CvGameCoreDLL;
 
-#include <CvDLLFAStarIFaceBase.h>
+#include <CvGameCoreDLL/CvDLLFAStarIFaceBase.h>
 
 #include <CommonStuff/vec.h>
 

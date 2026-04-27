@@ -2,7 +2,7 @@
 
 //import CommonStd;
 
-#include <FAStarNode.h>
+#include <CvGameCoreDLL/FAStarNode.h>
 
 #include <array>
 #include <assert.h>
